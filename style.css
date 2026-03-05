@@ -3,9 +3,15 @@ body {
     background-color: rgba(11, 11, 11, 0.913);
     color: white;
 }
-h1 {
+h1, .heading {
     text-align: center;
 }
 a {
     color: rgb(158, 172, 235);
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
 }
