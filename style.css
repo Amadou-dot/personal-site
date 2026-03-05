@@ -1,0 +1,11 @@
+body {
+    margin-top: 50px;
+    background-color: rgba(11, 11, 11, 0.913);
+    color: white;
+}
+h1 {
+    text-align: center;
+}
+a {
+    color: rgb(158, 172, 235);
+}
